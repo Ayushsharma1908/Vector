@@ -38,5 +38,5 @@ The application follows a component-based architecture with:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Ayushsharma1908/Vectorshift.git
+git clone https://github.com/Ayushsharma1908/Vector.git
 cd Vectorshift
